@@ -139,5 +139,10 @@ ol li {
 
 .actorBox {
   font-size: 0.8rem;
-  left: 50%;
+  margin-left: 30%;
+  overflow-y: scroll;
+}
+
+.crawl-container {
+  max-width: 45rem;
 }
